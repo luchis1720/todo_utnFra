@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1519063840 source:c:\users\luchi\desktop\practica15-10-18\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1519063840 c:\users\luchi\desktop\practica15-10-18\arraylist.h
+
+1539631581 source:c:\users\luchi\desktop\practica15-10-18\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Examen.h"
+
+1539634846 source:c:\users\luchi\desktop\practica15-10-18\luistoncic.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<unistd.h>
+	<windows.h>
+	"luistoncic.h"
+
+1539634660 c:\users\luchi\desktop\practica15-10-18\luistoncic.h
+	"Datos.h"
+	"Parser.h"
+	"Examen.h"
+
+1539634447 source:c:\users\luchi\desktop\practica15-10-18\datos.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	<conio.h>
+	"Datos.h"
+
+1539634660 c:\users\luchi\desktop\practica15-10-18\validaciones.h
+
+1539645287 source:c:\users\luchi\desktop\practica15-10-18\entidades.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"Entidades.h"
+
+1539645318 source:c:\users\luchi\desktop\practica15-10-18\entidades2.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"Entidades2.h"
+
+1539643442 c:\users\luchi\desktop\practica15-10-18\examen.h
+	"ArrayList.h"
+	"luistoncic.h"
+	"Entidades.h"
+	"Entidades2.h"
+
+1539634660 c:\users\luchi\desktop\practica15-10-18\datos.h
+	"Validaciones.h"
+
+1539635050 c:\users\luchi\desktop\practica15-10-18\parser.h
+	"ArrayList.h"
+	"luistoncic.h"
+	"Entidades.h"
+	"Entidades2.h"
+
+1539633259 source:c:\users\luchi\desktop\practica15-10-18\validaciones.c
+	<strings.h>
+	"Validaciones.h"
+
+1539645251 source:c:\users\luchi\desktop\practica15-10-18\examen.c
+	<stdio.h>
+	<stdlib.h>
+	"Examen.h"
+
+1539645251 c:\users\luchi\desktop\practica15-10-18\entidades.h
+	"ArrayList.h"
+
+1539645251 c:\users\luchi\desktop\practica15-10-18\entidades2.h
+	"ArrayList.h"
+
+1539652106 source:c:\users\luchi\desktop\practica15-10-18\parser.c
+	<stdio.h>
+	"Parser.h"
+
