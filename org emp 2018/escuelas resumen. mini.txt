@@ -1,0 +1,127 @@
+1ro taylor escuelas clasicas. las empresas funcionaban al menudeo y queria desarrollar una ciencia para planificar y establecer la produccion.
+	formar al obrero, 
+	dar una distribucion equitativa de las tareas, y aasi tb las responsabilidades,
+	cooperar coordialmente con el obrero, para que el trabajo se lleve a cabo.
+desarrollo un esquema, que constaba basicamente en: - seleccionar personal con potencial para las tareas a desarrollar, 
+						    - estudiar las tareas y segmentarlas en procesos, cronometrarlas, eliminar espacios de ocio, poner supervisores,
+					            - esblecer normas y metodos, dar primas de incentivo a la produccion (DESTAJOS).
+con todo esto logro maximizar la produccion, al punto de lograr producir lo que se quiere y no lo que se puede, mejoro la calidad de su producto, 
+dosifico descansos diarios y semanales, y revoluciono las formas de control hasta ahora conocidas.
+	
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+dps fayol (padre de la administracion), administrar es el arte de gobernar los negocios estableciendo una equilibrada y pernamente relacion entre las funciones escenciales de la empresa.
+ esta escuela es la ADMINISTRACION INDUSTRIAL.
+
+dijo que toda empresa debe contar con las siguientes areas ESCENSIALES:
+									-area tecnica  --  produccion fabricacion transformacion de materia prima a productos
+									-area comercial  --  compra venta transacciones.
+									-area financiera  -- manejo y obtencion del dinero (fondos) 
+									-area seguridad  --  custodia de las personas y patrimonio de la empresa
+									-area contabilidad  --  inventario balances costos informacion y control
+									-area administracion  --  preveer organizar coordinar controlar.
+
+establecio principios de la administracion: 
+					   -division del trabajo
+					   -unidad de mando
+					   -autoridad y responsabilidad
+					   -subordinacion del interes particular al general
+					   -remuneracion del personal
+					   -estabilidad del personal
+					   -unidad de direccion
+					   -disciplina
+					   -jerarquia
+					   -iniciativa
+
+					   
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+INFORMAL, mayo rr.hh.  priorizar el interes del grupo sobre el personal.   los grupos estan manejados por un lider.  
+
+A LA PAR VENIA la escuela NEOCLASICA. su eje se basa en tres aspectos: 
+
+	-Especializacion del trabajo: tener un solo fin, procesos estandarizados, por zona, por cliente.
+	-Control: cantidad de subordinados por jefe. evaluar 3 ascpectos: actitud de mando, cercania con subordinados, tipo de trabajo que ejecuta.
+		Organigrama, Manual de funciones. 
+		PIRAMIDE ACHATADA - buena comunicacion problemas en control.
+		PIRAMIDE ALARGADA - mala comunicacion buen control.
+		PIRAMIDE EQUILIBRADA - control y comunicacion equilibrado
+	-Autoridad: de linea y autoridad funcional.
+ACME
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+sociologia industrial. Lewis
+
+experimento, 3 grupos con distintos lideres:    1- autoritario
+						2- democratico
+						3- permisivo
+se evaluan resultados:  el autoritario con precensia logra picos de productividad pero a largo plazo hay resultados decrecientes.
+			el democratico clima calido, aun en ausencia del lider miembros activos. tendencia creciente a mediano y largo plazo 
+			el permisivo peores resultados poca independecia, vocacion y actividad, cero colaboracion.
+
+luego rotaron a los lideres, el democratico es el mas adaptable, sin embargo ciertas areas funcionoan mejor con el lider autoritario (tareas repetitivas onda fabrica), el permisivo ideal para actividad creativa.
+
+APORTA el descubrimiento de variables de conducta y comportamiento de los sujetos. 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+escuela de psicologia. psicologos sociales, hacen incapie en los conflictos, estudios de personalidad, de la percepcion de la motivacion.
+
+3 desarrollos:  1-direccion por objetivos: te da recursos, una meta, y te deja libre.
+		2-teoria "x" e "y": 	X-las personas deben modificar su comportamiento y ajustarlo a las necesidades de la organizacion, pq es vago inoperante y tendiente al declibe.
+					Y-el hombre no es caca. la organizacion debe disponer las condiciones para que la gente pueda alcanzar mejor sus objetivos, y asi usar su esfuerzo en favor de la organizacion.
+		3-analisis transaccional: transacciones paralelas y bloqueadas (respuesta distinta a la esperada. PRIVA ESTADO PRIMARIO DEL EGO)
+					   -   NIÑO:  el sujeto actua como siente sin concultar ni medir consecuencias (sujeto sin filtro)
+					   -   PADRE: genera conflicto (yo lo hago asi y no cambio, ninguneo al adaptable)    
+					   -   ADULTO: medita y actua luego en forma independiente, anticipa el conflicto. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+modelo burocratico. weber. posguerra.
+
+modelo impersonal, centralizado, inflexible, el modelo persigue la eficiencia y la racionalidad.
+
+posee un sistema mayor conformado por una autoridad legal inpersonal que nutre cada puesto del organigrama cuyos cargos estaran cubiertos por funcionarios y agentes.
+cuando un procedimiento resulta inadecuado no se puede cambiar. se debe presentar una sugerencia la cual es evaluada y si no altera el control social se preocede al cambio. 
+el control es tan rigido que da  la impresion de que nada se puede cambiar.
+las personas que van a aocupar el cargo no debe tener relacion patrimonial con la organizacion
+los cargos no son de por vida son dados o qutados segun necesidad de la organizacion
+proiblemas de comunicacion. todo documentado por ende ineptitud operacional. USADO POR ESTADOS.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+teoria de la organizacion . simon.
+
+formal e informal. formal : 	teoria de las decisiones - programadas y no programadas.     // hombre administrativo(resultados alcanzables) vs hombre formal(resultados optimos). 
+
+		informal : 	teoria del equilibrio (motivacion) los sujetos realizan aportes a cambio de alicientes. la organizacion debe velar para el equilibrio de alicientes y aportes. "todos como dia 1"
+				teoria del conflicto: -intrapersonal: indviduo. -interorganizacional: conflicto por fuera ej: empresa y competencia -organizacional: individual(1 persona conflictiva) y grupal(grupo conflictivo)
+							modelo de analisis y organizacion para resolver conflictos.
+INTRODUCEN AL LIDER INFORMAL!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+teoria de los sistemas. bertalanffy.
+
+-esta escuela unifica en un solo modelo toda la organizacion, pateando de lado el conflicto formal e informal.
+-busca desarrollar el conocimiento cientifico
+-las organizaciones se comprenden como un sistema integrado por subsitemas que deben funcionar coordinados e integrados para que las organizaciones se desarrollen, perduren y trasciendan
+
+administracion tradicional //// arministracion estrategica competitiva.
+
+
+
+
+
+
+
+
+
