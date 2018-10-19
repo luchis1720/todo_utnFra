@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1519063840 source:e:\tsp\15 feb\my book final\mybook\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1519063840 e:\tsp\15 feb\my book final\mybook\arraylist.h
+
+1519063840 source:e:\tsp\15 feb\my book final\mybook\luistoncic.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+	<unistd.h>
+	<windows.h>
+	"luistoncic.h"
+
+1519143600 e:\tsp\15 feb\my book final\mybook\luistoncic.h
+
+1519157598 source:e:\tsp\15 feb\my book final\mybook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"mybook.h"
+	"luistoncic.h"
+	"manejodatoslt.h"
+
+1519157598 e:\tsp\15 feb\my book final\mybook\mybook.h
+
+1519139812 e:\tsp\15 feb\my book final\mybook\manejodatoslt.h
+
+1519140746 source:e:\tsp\15 feb\my book final\mybook\manejodatoslt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"manejodatoslt.h"
+	"luistoncic.h"
+	"validar.h"
+
+1519063840 e:\tsp\15 feb\my book final\mybook\validar.h
+
+1519157598 source:e:\tsp\15 feb\my book final\mybook\mybook.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"mybook.h"
+
+1519063840 source:e:\tsp\15 feb\my book final\mybook\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+

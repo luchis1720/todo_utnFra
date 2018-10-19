@@ -1,0 +1,49 @@
+
+/** \brief Sorts objects of list, use compare pFunc
+ * \param this ArrayList* Pointer to arrayList
+ * \param pFunc (*pFunc) Pointer to fuction to compare elements of arrayList
+ * \param order int  [1] indicate UP - [0] indicate DOWN
+ * \return int Return (-1) if Error [this or pFunc are NULL pointer]
+ *                  - (0) if ok
+ */
+int al_sort(ArrayList* this, int (*pFunc)(void*,void*), int order)
+{
+    int returnAux = -1;
+    if(this!=NULL && order>=0 && order<2 && pFunc != NULL)
+    {
+        returnAux=0;
+        if(order==0)
+            order-=1;
+        quickSortP(this->pElements,pFunc,this->size,order);
+    }
+    return returnAux;
+}
+
+/** \brief Sorts objects of list, use compare pFunc
+ * \param array void* Pointer to arrayList
+ * \param pFunc (*pFunc) Pointer to fuction to compare elements of arrayList
+ * \param size extension of arrayList
+ * \param order int  [1] indicate UP - [-1] indicate DOWN
+ */
+void quickSortP(void** array,int (*pFunc)(void*,void*), int size, int order)
+{
+    void* pivot;
+    int i,j;
+    void* auxiliar;
+    if (size < 2)
+        return;
+    pivot=array[size/2];
+    for(i=0,j=size-1; ; i++,j--)
+    {
+        while(order==pFunc(pivot,array[i]) && i<size)
+            i++;
+        while(order==pFunc(array[j],pivot) && j>=0)
+            j--;
+        if(i>=j)
+            break;
+        auxiliar  = array[i];
+        array[i]=array[j];
+        array[j]=auxiliar;
+    }
+    quickSortP(array,pFunc,i,order);
+    quickSortP(array+i,pFunc,size-i,order);
