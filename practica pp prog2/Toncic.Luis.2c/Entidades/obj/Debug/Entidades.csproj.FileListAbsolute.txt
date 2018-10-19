@@ -1,0 +1,6 @@
+D:\VisualStudio\Toncic.Luis.2c\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Toncic.Luis.2c\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Toncic.Luis.2c\Entidades\bin\Debug\Entidades.dll
+E:\Toncic.Luis.2c\Entidades\bin\Debug\Entidades.pdb
+E:\Toncic.Luis.2c\Entidades\obj\Debug\Entidades.dll
+E:\Toncic.Luis.2c\Entidades\obj\Debug\Entidades.pdb

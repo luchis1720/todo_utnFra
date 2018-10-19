@@ -1,0 +1,9 @@
+D:\VisualStudio\Toncic.Luis.2c\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\Toncic.Luis.2c\Test\bin\Debug\Test.exe
+D:\VisualStudio\Toncic.Luis.2c\Test\bin\Debug\Test.pdb
+D:\VisualStudio\Toncic.Luis.2c\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Toncic.Luis.2c\Test\obj\Debug\Test.exe
+D:\VisualStudio\Toncic.Luis.2c\Test\obj\Debug\Test.pdb
+E:\Toncic.Luis.2c\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Toncic.Luis.2c\Test\obj\Debug\Test.exe
+E:\Toncic.Luis.2c\Test\obj\Debug\Test.pdb
