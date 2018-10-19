@@ -1,0 +1,2 @@
+E:\preparacion primer parcial 2018\TONCIC.LUIS.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\preparacion primer parcial 2018\TONCIC.LUIS.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache

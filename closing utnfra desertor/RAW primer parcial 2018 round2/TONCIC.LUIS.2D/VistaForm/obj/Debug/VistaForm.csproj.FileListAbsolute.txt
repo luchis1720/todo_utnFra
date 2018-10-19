@@ -1,0 +1,5 @@
+E:\preparacion primer parcial 2018\TONCIC.LUIS.2D\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+E:\preparacion primer parcial 2018\TONCIC.LUIS.2D\VistaForm\obj\Debug\VistaForm.Form1.resources
+E:\preparacion primer parcial 2018\TONCIC.LUIS.2D\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+E:\preparacion primer parcial 2018\TONCIC.LUIS.2D\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+E:\preparacion primer parcial 2018\TONCIC.LUIS.2D\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache

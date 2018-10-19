@@ -1,0 +1,2 @@
+E:\preparacion primer parcial 2018\TONCIC.LUIS.2D\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+E:\preparacion primer parcial 2018\TONCIC.LUIS.2D\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
