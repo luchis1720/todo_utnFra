@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1519063840 source:e:\tsp\15 feb\1er final labo tn 2017\1er final 2017 tn\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1519063840 e:\tsp\15 feb\1er final labo tn 2017\1er final 2017 tn\arraylist.h
+
+1519330784 source:e:\tsp\15 feb\1er final labo tn 2017\1er final 2017 tn\luistoncic.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+	<unistd.h>
+	<windows.h>
+	"luistoncic.h"
+	"ArrayList.h"
+	"final.h"
+
+1519255390 e:\tsp\15 feb\1er final labo tn 2017\1er final 2017 tn\luistoncic.h
+	"ArrayList.h"
+	"final.h"
+
+1519330722 source:e:\tsp\15 feb\1er final labo tn 2017\1er final 2017 tn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"luistoncic.h"
+	"ArrayList.h"
+	"final.h"
+	"manejodatoslt.h"
+
+1519238930 source:e:\tsp\15 feb\1er final labo tn 2017\1er final 2017 tn\manejodatoslt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"manejodatoslt.h"
+	"luistoncic.h"
+
+1519139812 e:\tsp\15 feb\1er final labo tn 2017\1er final 2017 tn\manejodatoslt.h
+
+1519331806 source:e:\tsp\15 feb\1er final labo tn 2017\1er final 2017 tn\final.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	<conio.h>
+	"luistoncic.h"
+	"ArrayList.h"
+	"final.h"
+
+1519331964 e:\tsp\15 feb\1er final labo tn 2017\1er final 2017 tn\final.h
+
